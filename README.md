@@ -3,3 +3,5 @@
 ---
 
 To beautiful you~!
+
+20140515  Ruby study.

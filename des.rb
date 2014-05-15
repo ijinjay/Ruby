@@ -129,4 +129,3 @@ class Mycipher
 
 end
 
-Mycipher.decode 'md5.rb'
